@@ -39,8 +39,12 @@ def parse(parser):
     parser.add_argument('--elmo_dropout',
                         default=0.33,
                         type=float)
-    parser.add_argument('--schema', default='BE', choices=['BE', 'BES'], help='which schema to use')
+    parser.add_argument('--schema', default='BE', choices=['BE', 'BES', 'BII', 'BIES'], help='which schema to use')
 
+    # args, unknown = parser.parse_known_args()
+    # args, _ = parser.parse_known_args(unknown, args)
+    # args = Config(**vars(args))
+    # Parser = args.pop('Parser')
     args, unknown = parser.parse_known_args()
     args, _ = parser.parse_known_args(unknown, args)
     args = Config(**vars(args))

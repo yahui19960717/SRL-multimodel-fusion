@@ -28,6 +28,8 @@ draw.py
 # experimental results
 exp
 results
+predict
+scripts
 
 # log files
 *.log

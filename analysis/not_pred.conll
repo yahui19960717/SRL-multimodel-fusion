@@ -1,0 +1,2265 @@
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Several\&traders\&could\&be\&seen\&shaking\&their\&heads\&when\&the\&news\&flashed\&.\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{7}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{7}{8}{\color{red!40}B-C-A1}
+\depedge[edge style={red!40,thick}]{7}{10}{\color{red!40}E-C-A1}
+\depedge[edge style={red!40,thick}]{7}{11}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{7}{14}{\color{red!40}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{7}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{7}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Buyers\&stepped\&in\&to\&the\&futures\&pit\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{4}{5}{\color{red!40}S-AM-DIR}
+\depedge[edge style={black,thick}]{4}{6}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{4}{9}{\color{black}E-A2}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{6}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{4}{9}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Hooker\&'s\&philosophy\&was\&to\&build\&and\&sell\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{3}{\color{black}B-A0}
+\depedge[edge style={red!40,thick}]{10}{4}{\color{red!40}E-A0}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{3}{\color{black}B-A0}
+\depedge[edge style={blue,thick},edge below]{10}{5}{\color{blue}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Fidelity\&on\&Saturday\&opened\&its\&54\&walk-in\&investor\&centers\&across\&the\&country\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{6}{4}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{6}{14}{\color{red!40}E-A1}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{6}{4}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={blue,thick},edge below]{6}{11}{\color{blue}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&Janus\&Group\&had\&a\&similar\&recording\&for\&investors\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{6}{9}{\color{red!40}E-A1}
+\depedge[edge style={red!40,thick}]{6}{10}{\color{red!40}B-AM-PNC}
+\depedge[edge style={red,thick}]{6}{11}{\color{red}E-AM-PNC}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red,thick},edge below]{6}{11}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Now\&,\&those\&routes\&are\&n't\&expected\&to\&begin\&until\&Jan\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{3}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{9}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{9}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{9}{8}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{9}{10}{\color{black}B-C-A1}
+\depedge[edge style={red!40,thick}]{9}{11}{\color{red!40}E-C-A1}
+\depedge[edge style={red!40,thick}]{9}{12}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red,thick}]{9}{13}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{9}{3}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{9}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{9}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{8}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{9}{10}{\color{black}B-C-A1}
+\depedge[edge style={red,thick},edge below]{9}{13}{\color{red}E-C-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&union\&is\&continuing\&to\&work\&through\&its\&expired\&contract\&,\&however\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{8}{9}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{8}{12}{\color{red}E-A1}
+\depedge[edge style={red!40,thick}]{8}{14}{\color{red!40}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{8}{9}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick},edge below]{8}{12}{\color{red}E-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Diamond\&Shamrock\&Offshore\&Partners\&said\&it\&had\&discovered\&gas\&offshore\&Louisiana\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{8}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{10}{11}{\color{red}S-A1}
+\depedge[edge style={red!40,thick}]{10}{12}{\color{red!40}B-AM-LOC}
+\depedge[edge style={red,thick}]{10}{13}{\color{red}E-AM-LOC}
+\depedge[edge style={black,thick},edge below]{10}{8}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{10}{11}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{10}{13}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&now\&prices\&have\&nose-dived\&and\&Quantum\&'s\&profit\&is\&plummeting\&.\&11\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{13}{3}{\color{red!40}S-AM-DIS}
+\depedge[edge style={black,thick}]{13}{4}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{13}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{13}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{13}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{13}{4}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{13}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{13}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{13}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Not\&everything\&looks\&grim\&for\&Quantum\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}S-A1}
+\depedge[edge style={red!40,thick}]{5}{7}{\color{red!40}B-C-A0}
+\depedge[edge style={red,thick}]{5}{8}{\color{red}E-C-A0}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{5}{8}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Still\&,\&Quantum\&has\&a\&crisis\&to\&get\&past\&right\&now\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{6}{11}{\color{red!40}E-A1}
+\depedge[edge style={red!40,thick}]{6}{12}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red,thick}]{6}{13}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red,thick},edge below]{6}{13}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Still\&,\&Quantum\&has\&a\&crisis\&to\&get\&past\&right\&now\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{5}{\color{black}S-A1}
+\depedge[edge style={red!40,thick}]{10}{7}{\color{red!40}B-A2}
+\depedge[edge style={red!40,thick}]{10}{8}{\color{red!40}E-A2}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{5}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{10}{11}{\color{blue}S-A2}
+\depedge[edge style={blue,thick},edge below]{10}{12}{\color{blue}B-AM-TMP}
+\depedge[edge style={blue,thick},edge below]{10}{13}{\color{blue}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Measuring\&cups\&may\&soon\&be\&replaced\&by\&tablespoons\&in\&the\&laundry\&room\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{8}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{8}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{8}{10}{\color{black}E-A2}
+\depedge[edge style={red!40,thick}]{8}{11}{\color{red!40}B-AM-LOC}
+\depedge[edge style={red!40,thick}]{8}{14}{\color{red!40}E-AM-LOC}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{8}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{8}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&How\&such\&remarks\&translate\&into\&policy\&wo\&n't\&become\&clear\&for\&months\&.\&4\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{6}{3}{\color{red!40}S-R-AM-MNR}
+\depedge[edge style={black,thick}]{6}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{6}{8}{\color{black}E-A2}
+\depedge[edge style={black,thick},edge below]{6}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{6}{8}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Many\&called\&it\&simply\&a\&contrast\&in\&styles\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}S-A1}
+\depedge[edge style={red,thick}]{4}{6}{\color{red}S-AM-ADV}
+\depedge[edge style={red!40,thick}]{4}{7}{\color{red!40}B-A2}
+\depedge[edge style={black,thick}]{4}{10}{\color{black}E-A2}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}S-A1}
+\depedge[edge style={red,thick},edge below]{4}{6}{\color{red}B-A2}
+\depedge[edge style={black,thick},edge below]{4}{10}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&she\&stressed\&,\&``\&I\&am\&against\&managed\&trade\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{5}{7}{\color{red!40}B-A1}
+\depedge[edge style={black,thick}]{5}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{5}{8}{\color{blue}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Syms\&operates\&25\&off-price\&apparel\&stores\&in\&the\&U.S.\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{4}{8}{\color{red!40}E-A1}
+\depedge[edge style={red!40,thick}]{4}{9}{\color{red!40}B-AM-LOC}
+\depedge[edge style={red,thick}]{4}{11}{\color{red}E-AM-LOC}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}B-A1}
+\depedge[edge style={red,thick},edge below]{4}{11}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&was\&brought\&in\&to\&turn\&around\&the\&company\&.\&''\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{8}{9}{\color{red!40}S-AM-DIR}
+\depedge[edge style={black,thick}]{8}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{11}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Union\&officials\&have\&taken\&a\&beating\&politically\&as\&a\&result\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{6}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{6}{8}{\color{black}E-A1}
+\depedge[edge style={red,thick}]{6}{9}{\color{red}S-AM-MNR}
+\depedge[edge style={red!40,thick}]{6}{10}{\color{red!40}B-AM-CAU}
+\depedge[edge style={black,thick}]{6}{12}{\color{black}E-AM-CAU}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{6}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{6}{8}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{6}{9}{\color{red}B-AM-CAU}
+\depedge[edge style={black,thick},edge below]{6}{12}{\color{black}E-AM-CAU}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Relational\&Technology\&went\&public\&in\&May\&1988\&at\&$\&14\&a\&share\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}S-A2}
+\depedge[edge style={black,thick}]{5}{7}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{5}{9}{\color{black}E-AM-TMP}
+\depedge[edge style={red!40,thick}]{5}{10}{\color{red!40}B-AM-MNR}
+\depedge[edge style={red!40,thick}]{5}{14}{\color{red!40}E-AM-MNR}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}S-A2}
+\depedge[edge style={black,thick},edge below]{5}{7}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{5}{9}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&They\&came\&by\&their\&strangeness\&honestly\&.\&2\\
+\end{deptext}
+\depedge[edge style={red,thick}]{4}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{4}{6}{\color{red!40}B-A1}
+\depedge[edge style={red,thick}]{4}{7}{\color{red}E-A1}
+\depedge[edge style={black,thick}]{4}{8}{\color{black}S-AM-MNR}
+\depedge[edge style={red,thick},edge below]{4}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{4}{5}{\color{blue}B-AM-MNR}
+\depedge[edge style={red,thick},edge below]{4}{7}{\color{red}E-AM-MNR}
+\depedge[edge style={black,thick},edge below]{4}{8}{\color{black}S-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&it\&does\&n't\&take\&too\&many\&lines\&to\&figure\&Harry\&out\&.\&5\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{7}{3}{\color{red!40}S-AM-DIS}
+\depedge[edge style={black,thick}]{7}{6}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{10}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{7}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{7}{14}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{7}{6}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{10}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{7}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{7}{14}{\color{black}E-A0}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&New\&York\&Stock\&Exchange\&said\&two\&securities\&will\&begin\&trading\&this\&week\&.\&11\\
+\end{deptext}
+\depedge[edge style={black,thick}]{13}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{13}{10}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{13}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{13}{14}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{13}{15}{\color{red!40}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{13}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{13}{10}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{13}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&They\&market\&cable-TV\&on\&the\&very\&grazing\&opportunities\&CNN\&seeks\&to\&discourage\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}S-A1}
+\depedge[edge style={red!40,thick}]{4}{6}{\color{red!40}B-A3}
+\depedge[edge style={red!40,thick}]{4}{14}{\color{red!40}E-A3}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&They\&market\&cable-TV\&on\&the\&very\&grazing\&opportunities\&CNN\&seeks\&to\&discourage\&.\&10\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{12}{7}{\color{red!40}B-A1}
+\depedge[edge style={red!40,thick}]{12}{10}{\color{red!40}E-A1}
+\depedge[edge style={black,thick}]{12}{11}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{12}{13}{\color{red}B-C-A1}
+\depedge[edge style={red,thick}]{12}{14}{\color{red}E-C-A1}
+\depedge[edge style={black,thick},edge below]{12}{11}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{12}{13}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{12}{14}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&the\&outcome\&of\&a\&legal\&dispute\&almost\&always\&turns\&on\&the\&facts\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick}]{12}{4}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{12}{9}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{12}{10}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{12}{11}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{12}{13}{\color{red!40}B-A1}
+\depedge[edge style={black,thick}]{12}{15}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{12}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{12}{4}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{12}{9}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{12}{10}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{12}{11}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{12}{14}{\color{blue}B-A1}
+\depedge[edge style={black,thick},edge below]{12}{15}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&In\&Leipzig\&,\&activists\&vowed\&to\&continue\&street\&protests\&to\&demand\&internal\&change\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{6}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{9}{10}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{9}{15}{\color{red!40}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{6}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{9}{10}{\color{black}B-A1}
+\depedge[edge style={blue,thick},edge below]{9}{11}{\color{blue}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&made\&his\&remarks\&to\&a\&PLO\&gathering\&in\&Baghdad\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{4}{6}{\color{black}E-A1}
+\depedge[edge style={red!40,thick}]{4}{7}{\color{red!40}B-A2}
+\depedge[edge style={red!40,thick}]{4}{12}{\color{red!40}E-A2}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{4}{6}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Predicting\&the\&financial\&results\&of\&computer\&firms\&has\&been\&a\&tough\&job\&lately\&.\&1\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{3}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{3}{4}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{3}{9}{\color{red!40}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{3}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{3}{4}{\color{black}B-A1}
+\depedge[edge style={blue,thick},edge below]{3}{15}{\color{blue}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&This\&small\&Dallas\&suburb\&'s\&got\&trouble\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A0}
+\depedge[edge style={red!40,thick}]{8}{6}{\color{red!40}E-A0}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A0}
+\depedge[edge style={blue,thick},edge below]{8}{7}{\color{blue}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&People\&are\&fast\&leaving\&the\&place\&where\&he\&is\&stuck\&.\&''\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-A0}
+\depedge[edge style={red,thick}]{6}{5}{\color{red}S-AM-MNR}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{6}{7}{\color{red!40}B-A1}
+\depedge[edge style={red!40,thick}]{6}{12}{\color{red!40}E-A1}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-A0}
+\depedge[edge style={red,thick},edge below]{6}{5}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Sen.\&Dole\&said\&that\&the\&move\&required\&sacrifice\&by\&every\&senator\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{7}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{9}{8}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{9}{10}{\color{red}B-A1}
+\depedge[edge style={red!40,thick}]{9}{13}{\color{red!40}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{7}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{9}{8}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{9}{10}{\color{red}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&plan\&would\&impose\&a\&brief\&freeze\&on\&physician\&fees\&next\&year\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{6}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{6}{9}{\color{red!40}E-A1}
+\depedge[edge style={red!40,thick}]{6}{10}{\color{red!40}B-A2}
+\depedge[edge style={red,thick}]{6}{12}{\color{red}E-A2}
+\depedge[edge style={black,thick}]{6}{13}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{6}{14}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{6}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red,thick},edge below]{6}{12}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{6}{13}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{14}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&So\&she\&thinks\&the\&damage\&will\&be\&short-lived\&and\&contained\&.\&3\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{5}{3}{\color{red!40}S-AM-DIS}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&This\&has\&both\&made\&investors\&uneasy\&and\&the\&corporations\&more\&vulnerable\&.\&''\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{6}{10}{\color{red!40}B-A1}
+\depedge[edge style={red!40,thick}]{6}{11}{\color{red!40}E-A1}
+\depedge[edge style={black,thick}]{6}{12}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{6}{13}{\color{black}E-A2}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-A0}
+\depedge[edge style={blue,thick},edge below]{6}{5}{\color{blue}S-AM-ADV}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{6}{7}{\color{blue}S-A1}
+\depedge[edge style={black,thick},edge below]{6}{12}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{6}{13}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&used\&about\&56\&words\&defending\&the\&witnesses\&'\&constitutional\&rights\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}B-A1}
+\depedge[edge style={red!40,thick}]{4}{7}{\color{red!40}E-A1}
+\depedge[edge style={red!40,thick}]{4}{8}{\color{red!40}B-AM-ADV}
+\depedge[edge style={red,thick}]{4}{13}{\color{red}E-AM-ADV}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}B-A1}
+\depedge[edge style={red,thick},edge below]{4}{13}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&used\&about\&56\&words\&defending\&the\&witnesses\&'\&constitutional\&rights\&.\&6\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{8}{3}{\color{red!40}S-A0}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{13}{\color{black}E-A1}
+\depedge[edge style={blue,thick},edge below]{8}{5}{\color{blue}B-A0}
+\depedge[edge style={blue,thick},edge below]{8}{7}{\color{blue}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{13}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&'s\&when\&such\&slapping\&does\&n't\&occur\&that\&we\&'ve\&got\&trouble\&.\&12\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{14}{5}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{14}{10}{\color{red!40}E-AM-TMP}
+\depedge[edge style={red!40,thick}]{14}{11}{\color{red!40}S-R-AM-TMP}
+\depedge[edge style={black,thick}]{14}{12}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{14}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{14}{15}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{14}{12}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{14}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{14}{15}{\color{black}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&I\&do\&not\&by\&any\&means\&defend\&HUD\&management\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{9}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={red!40,thick}]{9}{6}{\color{red!40}B-AM-ADV}
+\depedge[edge style={red!40,thick}]{9}{8}{\color{red!40}E-AM-ADV}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{9}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{9}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{9}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{9}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{9}{11}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Or\&is\&triskaidekaphobia\&--\&fear\&of\&the\&number\&13\&--\&justified\&?\&11\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{13}{5}{\color{red!40}B-A1}
+\depedge[edge style={red!40,thick}]{13}{12}{\color{red!40}E-A1}
+\depedge[edge style={black,thick}]{2}{13}{\color{black}[prd]}
+\depedge[edge style={blue,thick},edge below]{13}{7}{\color{blue}B-A1}
+\depedge[edge style={blue,thick},edge below]{13}{11}{\color{blue}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{13}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&In\&that\&case\&,\&there\&will\&be\&plenty\&of\&blame\&to\&go\&around\&.\&12\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{14}{10}{\color{red!40}B-A1}
+\depedge[edge style={red,thick}]{14}{12}{\color{red}E-A1}
+\depedge[edge style={black,thick}]{2}{14}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{14}{15}{\color{red}S-A2}
+\depedge[edge style={red,thick},edge below]{14}{12}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{14}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{14}{15}{\color{red}S-AM-DIR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&``\&I\&got\&out\&in\&1987\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{5}{6}{\color{red!40}S-A2}
+\depedge[edge style={black,thick}]{5}{7}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{5}{8}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{7}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{5}{8}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Would\&Mr.\&Antori\&ever\&get\&back\&in\&?\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{3}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{7}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{7}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{7}{8}{\color{red!40}S-AM-DIR}
+\depedge[edge style={red!40,thick}]{7}{9}{\color{red!40}S-A2}
+\depedge[edge style={black,thick},edge below]{7}{3}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{7}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{7}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&When\&it\&comes\&to\&money\&:\&Once\&bitten\&,\&2,000\&times\&shy\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-R-AM-TMP}
+\depedge[edge style={red!40,thick}]{5}{4}{\color{red!40}S-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}B-A2}
+\depedge[edge style={red,thick}]{5}{7}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-R-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{5}{7}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Analysts\&do\&n't\&see\&it\&that\&way\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{6}{7}{\color{red}S-A1}
+\depedge[edge style={red!40,thick}]{6}{8}{\color{red!40}B-AM-MNR}
+\depedge[edge style={red,thick}]{6}{9}{\color{red}E-AM-MNR}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{6}{7}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{6}{9}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Grumman\&Corp.\&received\&an\&$\&18.1\&million\&Navy\&contract\&to\&upgrade\&aircraft\&electronics\&.\&11\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{13}{6}{\color{red!40}B-A0}
+\depedge[edge style={red!40,thick}]{13}{11}{\color{red!40}E-A0}
+\depedge[edge style={black,thick}]{2}{13}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{13}{14}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{13}{15}{\color{black}E-A1}
+\depedge[edge style={blue,thick},edge below]{13}{3}{\color{blue}B-A0}
+\depedge[edge style={blue,thick},edge below]{13}{4}{\color{blue}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{13}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{13}{14}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{13}{15}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&added\&:\&``\&We\&learned\&a\&lesson\&in\&1987\&about\&volatility\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{10}{\color{black}E-A1}
+\depedge[edge style={red!40,thick}]{8}{11}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{8}{12}{\color{red!40}E-AM-TMP}
+\depedge[edge style={red!40,thick}]{8}{13}{\color{red!40}B-C-A1}
+\depedge[edge style={red!40,thick}]{8}{14}{\color{red!40}E-C-A1}
+\depedge[edge style={black,thick},edge below]{8}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&CBS\&will\&continue\&to\&program\&action-adventure\&shows\&to\&follow\&the\&Sajak\&hour\&.\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{9}{\color{black}E-A1}
+\depedge[edge style={red!40,thick}]{7}{10}{\color{red!40}B-A2}
+\depedge[edge style={red!40,thick}]{7}{14}{\color{red!40}E-A2}
+\depedge[edge style={black,thick},edge below]{7}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{9}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&CBS\&will\&continue\&to\&program\&action-adventure\&shows\&to\&follow\&the\&Sajak\&hour\&.\&9\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{11}{8}{\color{red!40}B-A1}
+\depedge[edge style={red!40,thick}]{11}{9}{\color{red!40}E-A1}
+\depedge[edge style={black,thick}]{2}{11}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{11}{12}{\color{red}B-A2}
+\depedge[edge style={red,thick}]{11}{14}{\color{red}E-A2}
+\depedge[edge style={blue,thick},edge below]{11}{3}{\color{blue}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{11}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{11}{12}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{11}{14}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&When\&it\&went\&down\&,\&by\&all\&tradition\&,\&the\&economy\&followed\&.\&12\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{14}{3}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{14}{6}{\color{red!40}E-AM-TMP}
+\depedge[edge style={red!40,thick}]{14}{8}{\color{red!40}B-AM-DIS}
+\depedge[edge style={red!40,thick}]{14}{10}{\color{red!40}E-AM-DIS}
+\depedge[edge style={black,thick}]{14}{12}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{14}{13}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{14}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{14}{12}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{14}{13}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{14}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&,\&in\&the\&process\&,\&the\&Fed\&risks\&reigniting\&inflation\&.\&9\\
+\end{deptext}
+\depedge[edge style={black,thick}]{11}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={red!40,thick}]{11}{5}{\color{red!40}B-AM-TMP}
+\depedge[edge style={red!40,thick}]{11}{7}{\color{red!40}E-AM-TMP}
+\depedge[edge style={black,thick}]{11}{9}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{11}{10}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{11}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{11}{12}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{11}{13}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{11}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{11}{9}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{11}{10}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{11}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{11}{12}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{11}{13}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Most\&estimates\&for\&Monsanto\&run\&between\&$\&1.70\&and\&$\&2\&a\&share\&.\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={red!40,thick}]{7}{8}{\color{red!40}B-A2}
+\depedge[edge style={red!40,thick}]{7}{15}{\color{red!40}E-A2}
+\depedge[edge style={black,thick},edge below]{7}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&$\&200\&million\&of\&stripped\&mortgage\&securities\&underwritten\&by\&BT\&Securities\&Corp\&.\&8\\
+\end{deptext}
+\depedge[edge style={red!40,thick}]{10}{7}{\color{red!40}B-A1}
+\depedge[edge style={black,thick}]{10}{9}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{10}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{10}{14}{\color{black}E-A0}
+\depedge[edge style={blue,thick},edge below]{10}{3}{\color{blue}B-A1}
+\depedge[edge style={black,thick},edge below]{10}{9}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{10}{14}{\color{black}E-A0}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+--------------------分割线1------------------------
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&nobody\&knows\&at\&what\&level\&the\&futures\&and\&stocks\&will\&open\&today\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{15}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{15}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Friday\&'s\&stock\&market\&sell-off\&came\&too\&late\&for\&many\&investors\&to\&act\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-AM-TMP}
+\depedge[edge style={red,thick}]{8}{15}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{11}{\color{black}B-AM-PNC}
+\depedge[edge style={red,thick},edge below]{8}{15}{\color{red}E-AM-PNC}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&most\&investors\&were\&seeking\&share\&prices\&and\&other\&information\&.\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{4}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{7}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{7}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{7}{4}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{7}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{7}{8}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Several\&fund\&managers\&expect\&a\&rough\&market\&this\&morning\&before\&prices\&stabilize\&.\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A1}
+\depedge[edge style={red,thick}]{6}{11}{\color{red}E-A1}
+\depedge[edge style={black,thick}]{6}{12}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{6}{14}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{6}{9}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{6}{10}{\color{black}B-AM-TMP}
+\depedge[edge style={red,thick},edge below]{6}{11}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{12}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{6}{14}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&some\&saw\&it\&as\&a\&classic\&negotiating\&tactic\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{5}{11}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{5}{7}{\color{black}B-A2}
+\depedge[edge style={red,thick},edge below]{5}{11}{\color{red}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&I\&feel\&committed\&to\&the\&program\&of\&opening\&markets\&and\&expanding\&trade\&.\&''\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{10}{11}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{10}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{11}{\color{black}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Mr.\&Andre\&issued\&the\&ruling\&based\&on\&a\&recommendation\&by\&Investment\&Canada\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{8}{14}{\color{black}E-A2}
+\depedge[edge style={black,thick},edge below]{8}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{8}{14}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Proceeds\&will\&be\&used\&to\&eliminate\&and\&restructure\&bank\&debt\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{11}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{11}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&it\&does\&n't\&take\&too\&many\&lines\&to\&figure\&Harry\&out\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{12}{13}{\color{red}S-A1}
+\depedge[edge style={red,thick}]{12}{14}{\color{red}S-C-V}
+\depedge[edge style={black,thick},edge below]{12}{8}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{12}{10}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{12}{13}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{12}{14}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Call\&it\&the\&``\&we\&'re\&too\&broke\&to\&fight\&''\&defense\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{12}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{12}{14}{\color{black}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&I\&see\&no\&major\&support\&until\&2200\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}B-A1}
+\depedge[edge style={red,thick}]{4}{9}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{4}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{4}{8}{\color{black}B-AM-TMP}
+\depedge[edge style={red,thick},edge below]{4}{9}{\color{red}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&I\&see\&a\&possibility\&of\&going\&to\&2200\&this\&month\&.\&''\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A4}
+\depedge[edge style={black,thick}]{8}{10}{\color{black}E-A4}
+\depedge[edge style={black,thick}]{8}{11}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{8}{12}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A4}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}E-A4}
+\depedge[edge style={black,thick},edge below]{8}{11}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{12}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&ticks\&off\&several\&major\&differences\&between\&now\&and\&two\&years\&ago\&.\&2\\
+\end{deptext}
+\depedge[edge style={black,thick}]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{6}{\color{black}B-A1}
+\depedge[edge style={red,thick}]{4}{14}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{4}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{4}{8}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{4}{9}{\color{black}B-AM-TMP}
+\depedge[edge style={red,thick},edge below]{4}{14}{\color{red}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&How\&was\&that\&practice\&referred\&to\&when\&I\&was\&in\&school\&?\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{7}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{7}{9}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{7}{13}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{7}{5}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{7}{6}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{7}{8}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{7}{9}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{7}{13}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&'s\&when\&such\&slapping\&does\&n't\&occur\&that\&we\&'ve\&got\&trouble\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{10}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{10}{9}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{10}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{10}{9}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{11}{\color{black}B-C-A1}
+\depedge[edge style={black,thick},edge below]{10}{15}{\color{black}E-C-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&they\&fell\&sharply\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}S-A2}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}S-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&They\&could\&still\&panic\&and\&bail\&out\&of\&the\&market\&.\&4\\
+\end{deptext}
+\depedge[edge style={red,thick}]{6}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick}]{6}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={red,thick}]{6}{5}{\color{red}S-AM-DIS}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{6}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick},edge below]{6}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={red,thick},edge below]{6}{5}{\color{red}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{6}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&When\&it\&comes\&to\&money\&:\&Once\&bitten\&,\&2,000\&times\&shy\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{9}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{9}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{12}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{10}{14}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&When\&it\&went\&down\&,\&by\&all\&tradition\&,\&the\&economy\&followed\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-R-AM-TMP}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}S-AM-DIR}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-R-AM-TMP}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}S-AM-DIR}
+\depedge[edge style={black,thick},edge below]{5}{8}{\color{black}B-AM-ADV}
+\depedge[edge style={black,thick},edge below]{5}{10}{\color{black}E-AM-ADV}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+--------------------分割线2------------------------
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&futures\&halt\&was\&even\&assailed\&by\&Big\&Board\&floor\&traders\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{5}{\color{black}E-A1}
+\depedge[edge style={red,thick}]{8}{7}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{8}{13}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{5}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{8}{7}{\color{red}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{8}{13}{\color{black}E-A0}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&stocks\&kept\&falling\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={red,thick}]{5}{4}{\color{red}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={red,thick},edge below]{5}{4}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}S-C-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&And\&I\&think\&a\&lot\&of\&people\&will\&harp\&on\&program\&trading\&.\&9\\
+\end{deptext}
+\depedge[edge style={black,thick}]{11}{6}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{11}{9}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{11}{10}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{11}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{11}{12}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{11}{14}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{11}{6}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{11}{9}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{11}{10}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{11}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{11}{12}{\color{red}B-AM-LOC}
+\depedge[edge style={red,thick},edge below]{11}{14}{\color{red}E-AM-LOC}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&nobody\&knows\&at\&what\&level\&the\&futures\&and\&stocks\&will\&open\&today\&.\&12\\
+\end{deptext}
+\depedge[edge style={red,thick}]{14}{6}{\color{red}B-AM-EXT}
+\depedge[edge style={red,thick}]{14}{8}{\color{red}E-AM-EXT}
+\depedge[edge style={black,thick}]{14}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{14}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{14}{13}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{14}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{14}{15}{\color{black}S-AM-TMP}
+\depedge[edge style={red,thick},edge below]{14}{6}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{14}{8}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{14}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{14}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{14}{13}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{14}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{14}{15}{\color{black}S-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&Merksamer\&chain\&is\&currently\&being\&offered\&for\&sale\&by\&First\&Boston\&Corp\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{9}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{9}{7}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{9}{10}{\color{red}B-AM-PNC}
+\depedge[edge style={red,thick}]{9}{11}{\color{red}E-AM-PNC}
+\depedge[edge style={black,thick}]{9}{12}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{9}{15}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{9}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{9}{5}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{7}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{9}{10}{\color{red}B-A3}
+\depedge[edge style={red,thick},edge below]{9}{11}{\color{red}E-A3}
+\depedge[edge style={black,thick},edge below]{9}{12}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{9}{15}{\color{black}E-A0}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&People\&are\&n't\&panicking\&.\&''\&4\\
+\end{deptext}
+\depedge[edge style={red,thick}]{6}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick}]{6}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{6}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick},edge below]{6}{5}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&No\&date\&has\&yet\&been\&set\&to\&get\&back\&to\&the\&bargaining\&table\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{8}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{8}{9}{\color{red}B-AM-PNC}
+\depedge[edge style={red,thick}]{8}{15}{\color{red}E-AM-PNC}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{8}{6}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{8}{9}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{8}{15}{\color{red}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&No\&date\&has\&yet\&been\&set\&to\&get\&back\&to\&the\&bargaining\&table\&.\&8\\
+\end{deptext}
+\depedge[edge style={red,thick}]{10}{3}{\color{red}B-AM-TMP}
+\depedge[edge style={red,thick}]{10}{4}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{10}{11}{\color{black}B-A2}
+\depedge[edge style={black,thick}]{10}{15}{\color{black}E-A2}
+\depedge[edge style={red,thick},edge below]{10}{3}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{10}{4}{\color{red}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{11}{\color{black}B-A2}
+\depedge[edge style={black,thick},edge below]{10}{15}{\color{black}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&investment\&community\&,\&for\&one\&,\&has\&been\&anticipating\&a\&speedy\&resolution\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{12}{5}{\color{black}E-A0}
+\depedge[edge style={red,thick}]{12}{7}{\color{red}B-AM-ADV}
+\depedge[edge style={red,thick}]{12}{8}{\color{red}E-AM-ADV}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{12}{13}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{12}{15}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{12}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{12}{5}{\color{black}E-A0}
+\depedge[edge style={red,thick},edge below]{12}{7}{\color{red}B-AM-DIS}
+\depedge[edge style={red,thick},edge below]{12}{8}{\color{red}E-AM-DIS}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{12}{13}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{12}{15}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&``\&And\&then\&you\&still\&have\&to\&negotiate\&.\&''\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}S-AM-DIS}
+\depedge[edge style={red,thick}]{8}{5}{\color{red}S-AM-TMP}
+\depedge[edge style={black,thick}]{8}{7}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}S-AM-DIS}
+\depedge[edge style={red,thick},edge below]{8}{5}{\color{red}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{8}{7}{\color{black}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&settled\&with\&a\&loss\&of\&4.95\&cents\&at\&$\&1.3210\&a\&pound\&.\&2\\
+\end{deptext}
+\depedge[edge style={red,thick}]{4}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{4}{5}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick}]{4}{10}{\color{red}E-AM-MNR}
+\depedge[edge style={black,thick}]{4}{11}{\color{black}B-A4}
+\depedge[edge style={black,thick}]{4}{15}{\color{black}E-A4}
+\depedge[edge style={red,thick},edge below]{4}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{4}{5}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{4}{10}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{4}{11}{\color{black}B-A4}
+\depedge[edge style={black,thick},edge below]{4}{15}{\color{black}E-A4}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Mr.\&Andre\&issued\&the\&ruling\&based\&on\&a\&recommendation\&by\&Investment\&Canada\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{7}{\color{black}E-A1}
+\depedge[edge style={red,thick}]{5}{8}{\color{red}B-AM-CAU}
+\depedge[edge style={red,thick}]{5}{14}{\color{red}E-AM-CAU}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{7}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{5}{8}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick},edge below]{5}{14}{\color{red}E-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&makes\&investment\&castings\&and\&has\&traded\&over-the-counter\&.\&7\\
+\end{deptext}
+\depedge[edge style={red,thick}]{9}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{9}{10}{\color{red}S-AM-MNR}
+\depedge[edge style={red,thick},edge below]{9}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{9}{10}{\color{red}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&had\&traded\&over-the-counter\&.\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}S-AM-MNR}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}S-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&pharmaceuticals\&maker\&had\&traded\&over-the-counter\&.\&5\\
+\end{deptext}
+\depedge[edge style={red,thick}]{7}{3}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{7}{5}{\color{red}E-A1}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{7}{8}{\color{black}S-AM-MNR}
+\depedge[edge style={red,thick},edge below]{7}{3}{\color{red}B-A0}
+\depedge[edge style={red,thick},edge below]{7}{5}{\color{red}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{7}{8}{\color{black}S-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&``\&You\&ca\&n't\&live\&on\&that\&.\&''\&5\\
+\end{deptext}
+\depedge[edge style={black,thick}]{7}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{7}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{7}{6}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick}]{2}{7}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{7}{8}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick}]{7}{9}{\color{red}E-AM-MNR}
+\depedge[edge style={black,thick},edge below]{7}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{7}{5}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{7}{6}{\color{black}S-AM-NEG}
+\depedge[edge style={black,thick},edge below]{2}{7}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{7}{8}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{7}{9}{\color{red}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&But\&his\&release\&within\&the\&next\&few\&months\&is\&widely\&expected\&.\&11\\
+\end{deptext}
+\depedge[edge style={black,thick}]{13}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick}]{13}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{13}{10}{\color{black}E-A1}
+\depedge[edge style={red,thick}]{13}{12}{\color{red}S-AM-LOC}
+\depedge[edge style={black,thick}]{2}{13}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{13}{3}{\color{black}S-AM-DIS}
+\depedge[edge style={black,thick},edge below]{13}{4}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{13}{10}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{13}{12}{\color{red}S-AM-MNR}
+\depedge[edge style={black,thick},edge below]{2}{13}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Regulators\&also\&ordered\&CenTrust\&to\&stop\&buying\&back\&the\&preferred\&stock\&.\&7\\
+\end{deptext}
+\depedge[edge style={black,thick}]{9}{6}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{9}{10}{\color{red}S-AM-DIR}
+\depedge[edge style={black,thick}]{9}{11}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{9}{13}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{9}{6}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{9}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{9}{10}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick},edge below]{9}{11}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{9}{13}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Some\&lagging\&competitors\&even\&may\&leave\&the\&personal\&computer\&business\&altogether\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{8}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{8}{6}{\color{black}S-AM-ADV}
+\depedge[edge style={black,thick}]{8}{7}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{12}{\color{black}E-A1}
+\depedge[edge style={red,thick}]{8}{13}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{8}{5}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{8}{6}{\color{black}S-AM-ADV}
+\depedge[edge style={black,thick},edge below]{8}{7}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{9}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{12}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{8}{13}{\color{red}S-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Population\&Drain\&Ends\&For\&Midwestern\&States\&3\\
+\end{deptext}
+\depedge[edge style={black,thick}]{5}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{5}{6}{\color{red}B-C-A1}
+\depedge[edge style={red,thick}]{5}{8}{\color{red}E-C-A1}
+\depedge[edge style={black,thick},edge below]{5}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{5}{6}{\color{red}B-AM-PNC}
+\depedge[edge style={red,thick},edge below]{5}{8}{\color{red}E-AM-PNC}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&This\&does\&n't\&mean\&they\&'re\&less\&likely\&to\&live\&alone\&,\&however\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{12}{13}{\color{red}S-AM-MNR}
+\depedge[edge style={black,thick},edge below]{12}{7}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{12}{13}{\color{red}S-AM-LOC}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Careers\&Count\&Most\&For\&the\&Well-to-Do\&2\\
+\end{deptext}
+\depedge[edge style={red,thick}]{4}{3}{\color{red}S-A1}
+\depedge[edge style={black,thick}]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{4}{5}{\color{black}S-AM-ADV}
+\depedge[edge style={red,thick}]{4}{6}{\color{red}B-AM-PNC}
+\depedge[edge style={red,thick}]{4}{8}{\color{red}E-AM-PNC}
+\depedge[edge style={red,thick},edge below]{4}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{4}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{4}{5}{\color{black}S-AM-ADV}
+\depedge[edge style={red,thick},edge below]{4}{6}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{4}{8}{\color{red}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&It\&would\&open\&a\&can\&of\&worms\&.\&''\&3\\
+\end{deptext}
+\depedge[edge style={red,thick}]{5}{3}{\color{red}S-A0}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{5}{9}{\color{black}E-A1}
+\depedge[edge style={red,thick},edge below]{5}{3}{\color{red}S-A2}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{5}{9}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&House-Senate\&negotiations\&are\&likely\&to\&begin\&at\&midweek\&and\&last\&for\&a\&while\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{8}{9}{\color{red}B-AM-TMP}
+\depedge[edge style={red,thick}]{8}{10}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{8}{9}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick},edge below]{8}{10}{\color{red}E-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&House-Senate\&negotiations\&are\&likely\&to\&begin\&at\&midweek\&and\&last\&for\&a\&while\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{12}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{12}{13}{\color{red}B-A2}
+\depedge[edge style={red,thick}]{12}{15}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{12}{3}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{12}{4}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{12}{13}{\color{red}B-AM-TMP}
+\depedge[edge style={red,thick},edge below]{12}{15}{\color{red}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Things\&had\&just\&gone\&too\&far\&.\&''\&4\\
+\end{deptext}
+\depedge[edge style={black,thick}]{6}{3}{\color{black}S-A1}
+\depedge[edge style={red,thick}]{6}{5}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{6}{7}{\color{black}B-A4}
+\depedge[edge style={black,thick}]{6}{8}{\color{black}E-A4}
+\depedge[edge style={black,thick},edge below]{6}{3}{\color{black}S-A1}
+\depedge[edge style={red,thick},edge below]{6}{5}{\color{red}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{6}{7}{\color{black}B-A4}
+\depedge[edge style={black,thick},edge below]{6}{8}{\color{black}E-A4}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Unlike\&1987\&,\&interest\&rates\&have\&been\&falling\&this\&year\&.\&8\\
+\end{deptext}
+\depedge[edge style={red,thick}]{10}{3}{\color{red}B-AM-ADV}
+\depedge[edge style={red,thick}]{10}{4}{\color{red}E-AM-ADV}
+\depedge[edge style={black,thick}]{10}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{10}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{10}{11}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{10}{12}{\color{black}E-AM-TMP}
+\depedge[edge style={red,thick},edge below]{10}{3}{\color{red}B-AM-TMP}
+\depedge[edge style={red,thick},edge below]{10}{4}{\color{red}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{6}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{10}{7}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{10}{11}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{12}{\color{black}E-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&When\&selling\&is\&so\&frenzied\&,\&prices\&fall\&steeply\&and\&fast\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{3}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{10}{7}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick}]{10}{9}{\color{black}S-A1}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{10}{11}{\color{red}B-A2}
+\depedge[edge style={red,thick}]{10}{13}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{10}{3}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{7}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{9}{\color{black}S-A1}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{10}{11}{\color{red}B-AM-MNR}
+\depedge[edge style={red,thick},edge below]{10}{13}{\color{red}E-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&On\&Friday\&,\&some\&market\&makers\&were\&selling\&again\&,\&traders\&said\&.\&8\\
+\end{deptext}
+\depedge[edge style={black,thick}]{10}{3}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick}]{10}{4}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick}]{10}{6}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{10}{8}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{10}{11}{\color{red}S-AM-MNR}
+\depedge[edge style={black,thick},edge below]{10}{3}{\color{black}B-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{4}{\color{black}E-AM-TMP}
+\depedge[edge style={black,thick},edge below]{10}{6}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{10}{8}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{2}{10}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{10}{11}{\color{red}S-AM-TMP}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&They\&could\&still\&panic\&and\&bail\&out\&of\&the\&market\&.\&6\\
+\end{deptext}
+\depedge[edge style={black,thick}]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{8}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={red,thick}]{8}{5}{\color{red}S-AM-ADV}
+\depedge[edge style={black,thick}]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{8}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{8}{12}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{8}{3}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{8}{4}{\color{black}S-AM-MOD}
+\depedge[edge style={red,thick},edge below]{8}{5}{\color{red}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{2}{8}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{8}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{8}{12}{\color{black}E-A1}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&He\&expects\&to\&invest\&the\&rest\&if\&the\&market\&weakens\&further\&.\&10\\
+\end{deptext}
+\depedge[edge style={black,thick}]{12}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick}]{12}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick}]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{12}{13}{\color{red}S-A2}
+\depedge[edge style={black,thick},edge below]{12}{10}{\color{black}B-A1}
+\depedge[edge style={black,thick},edge below]{12}{11}{\color{black}E-A1}
+\depedge[edge style={black,thick},edge below]{2}{12}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{12}{13}{\color{red}S-AM-MNR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Then\&he\&jumped\&into\&the\&market\&:\&3\\
+\end{deptext}
+\depedge[edge style={red,thick}]{5}{3}{\color{red}S-AM-DIS}
+\depedge[edge style={black,thick}]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick}]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick}]{5}{6}{\color{black}B-AM-DIR}
+\depedge[edge style={black,thick}]{5}{8}{\color{black}E-AM-DIR}
+\depedge[edge style={red,thick},edge below]{5}{3}{\color{red}S-AM-TMP}
+\depedge[edge style={black,thick},edge below]{5}{4}{\color{black}S-A0}
+\depedge[edge style={black,thick},edge below]{2}{5}{\color{black}[prd]}
+\depedge[edge style={black,thick},edge below]{5}{6}{\color{black}B-AM-DIR}
+\depedge[edge style={black,thick},edge below]{5}{8}{\color{black}E-AM-DIR}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&Others\&wonder\&how\&many\&more\&of\&these\&shocks\&the\&small\&investor\&can\&stand\&.\&13\\
+\end{deptext}
+\depedge[edge style={red,thick}]{15}{5}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{15}{10}{\color{red}E-A1}
+\depedge[edge style={black,thick}]{15}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick}]{15}{13}{\color{black}E-A0}
+\depedge[edge style={black,thick}]{15}{14}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick}]{2}{15}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{15}{5}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{15}{10}{\color{red}E-A2}
+\depedge[edge style={black,thick},edge below]{15}{11}{\color{black}B-A0}
+\depedge[edge style={black,thick},edge below]{15}{13}{\color{black}E-A0}
+\depedge[edge style={black,thick},edge below]{15}{14}{\color{black}S-AM-MOD}
+\depedge[edge style={black,thick},edge below]{2}{15}{\color{black}[prd]}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\begin{dependency}[arc edge, arc angle=80, text only label, label style={above}]
+\begin{deptext} [row sep=0.2cm, column sep=.5cm]
+\&Root\&The\&prosperity\&that\&followed\&Black\&Monday\&permits\&a\&more\&optimistic\&view\&today\&.\&4\\
+\end{deptext}
+\depedge[edge style={red,thick}]{6}{3}{\color{red}B-A0}
+\depedge[edge style={red,thick}]{6}{4}{\color{red}E-A0}
+\depedge[edge style={red,thick}]{6}{5}{\color{red}S-R-A0}
+\depedge[edge style={black,thick}]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick}]{6}{7}{\color{red}B-A1}
+\depedge[edge style={red,thick}]{6}{8}{\color{red}E-A1}
+\depedge[edge style={red,thick},edge below]{6}{3}{\color{red}B-A1}
+\depedge[edge style={red,thick},edge below]{6}{4}{\color{red}E-A1}
+\depedge[edge style={red,thick},edge below]{6}{5}{\color{red}S-R-A1}
+\depedge[edge style={black,thick},edge below]{2}{6}{\color{black}[prd]}
+\depedge[edge style={red,thick},edge below]{6}{7}{\color{red}B-A2}
+\depedge[edge style={red,thick},edge below]{6}{8}{\color{red}E-A2}
+\end{dependency}
+\label{fig:dang-zuo-fenci}
+\end{center}
+\end{figure}
+

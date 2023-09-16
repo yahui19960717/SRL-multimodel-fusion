@@ -649,39 +649,36 @@ class Parser(object):
         args = self.args.update(locals())
         init_logger(logger, verbose=args.verbose)
 
-        self.transform.train()
-        if args.prob:
-            self.transform.append(Field('probs'))
+        # self.transform.train()#
+        # if args.prob:
+        #     self.transform.append(Field('probs'))
 
-        logger.info("Loading the data")
-        dataset = Dataset(self.transform, data)
-        dataset.build(args.batch_size, args.buckets)
-        logger.info(f"\n{dataset}")
+        # logger.info("Loading the data")
+        # dataset = Dataset(self.transform, data)
+        # dataset.build(args.batch_size, args.buckets)
+        # logger.info(f"\n{dataset}")
 
-        logger.info("Making predictions on the dataset")
+        # logger.info("Making predictions on the dataset")
 
-        start = datetime.now()
-        preds = self._predict(dataset.loader)
-        elapsed = datetime.now() - start
+        # start = datetime.now()
+        # preds = self._predict(dataset.loader)
+        # elapsed = datetime.now() - start
 
-        for name, value in preds.items():
-            setattr(dataset, name, value)
-        if pred is not None and is_master():
-            logger.info(f"Saving predicted results to {pred}")
-            self.transform.save(pred, dataset.sentences)
-        logger.info(
-            f"{elapsed}s elapsed, {len(dataset) / elapsed.total_seconds():.2f} Sents/s"
-        )
+        # for name, value in preds.items():
+        #     setattr(dataset, name, value)
+        # if pred is not None and is_master():
+        #     logger.info(f"Saving predicted results to {pred}")
+        #     self.transform.save(pred, dataset.sentences)
+        # logger.info(
+        #     f"{elapsed}s elapsed, {len(dataset) / elapsed.total_seconds():.2f} Sents/s"
+        # )#
         if(args.task in ('05', '12')):
             rand_file_seed1 = random.randint(1,100)
             rand_file_seed2 = random.randint(1,100)
             test_conll_f1, test_lisa_f1 = 0, 0
             conll_recall, conll_precision, test_conll_f1, test_lisa_f1 = get_results(args.gold, pred, str(rand_file_seed1)+'-'+str(rand_file_seed2), args.task, args.schema)
             logger.info(f"-P:{conll_precision:6.4} R:{conll_recall:6.4} F1:{test_conll_f1:6.4}")
-        # if(args.task == '05'):
-        #     self.generate_final(data, spans, 2)
-        # elif(args.task == '12'):
-        #     self.generate_final(data, spans, 1)
+        
         return dataset
 
     def generate_final(self, src_file, spans, word_idx):
