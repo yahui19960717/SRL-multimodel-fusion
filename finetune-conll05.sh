@@ -1,0 +1,15 @@
+python -m supar.cmds.vi_srl train -b \
+        --train data/BE-conll05/sc-conll5-train.conllu \
+        --dev   data/BE-conll05/sc-conll5-dev.conllu \
+        --test  data/BE-conll05/sc-conll5-wsj.conllu \
+        --batch-size 500 \
+        --encoder bert \
+        --itp 0.06 \
+        --bert bert-large-uncased \
+        --split \
+        --lr_rate 1 \
+        --seed 1 \
+        --schema BE \
+        --train_given_prd \
+        -p exp/BE-finetune-givenpred/model \
+        -d 3

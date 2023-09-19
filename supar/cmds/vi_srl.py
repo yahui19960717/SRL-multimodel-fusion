@@ -23,6 +23,7 @@ def main():
     subparser.add_argument('--unk', default='unk', help='unk token in pretrained embeddings')
     subparser.add_argument('--n-embed', default=100, type=int, help='dimension of embeddings')
     subparser.add_argument('--n-embed-proj', default=125, type=int, help='dimension of projected embeddings')
+    subparser.add_argument('--n_pretrained', default=125, type=int, help='dimension of pre-trained embeddings')    
     subparser.add_argument('--bert', default='bert-base-cased', help='which bert model to use')
     subparser.add_argument('--inference', default='mfvi', choices=['mfvi', 'lbp'], help='approximate inference methods')
     subparser.add_argument('--lr_rate', default=1, type=int)
